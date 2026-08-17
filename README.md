@@ -166,7 +166,7 @@ This project answers questions such as:
 # 📊 Dashboard Preview
 
 ## Sales Dashboard
-![Pizza Sales Dashboard](./Dashboard/Pizza_Sales_Dashboard.png)
+![Pizza_Sales_Dashboard](./Dashboard/Pizza_Sales_Dashboard.png)
 
 # 🎯 Key Skills Demonstrated
 * Data Cleaning
