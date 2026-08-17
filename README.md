@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Data Analytics & Power BI Dashboard
+# 🍕 Pizza Sales Data Analytics
 
 ## 📊 Project Overview
 This project analyzes **Pizza Sales Data** using **Python, PostgreSQL/SQL, and Microsoft Power BI** to identify sales trends, product performance, order patterns, and key business KPIs.
